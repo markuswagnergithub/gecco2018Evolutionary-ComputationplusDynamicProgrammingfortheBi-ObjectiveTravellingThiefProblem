@@ -8,7 +8,7 @@ This directory contains the code, the results, and the paper+slides of the follo
 Genetic and Evolutionary Computation Conference (GECCO) 2018
 Evolutionary Computation plus Dynamic Programming for the Bi-Objective Travelling Thief Problem
 Junhua Wu, Sergey Polyakovskiy, Markus Wagner, Frank Neumann
-[paper at Springer](https://dl.acm.org/citation.cfm?id=3205455.3205488), [paper at arXiv](https://arxiv.org/abs/1802.02434)
+[paper at ACM](https://dl.acm.org/citation.cfm?id=3205455.3205488), [paper at arXiv](https://arxiv.org/abs/1802.02434)
 
 Note that the results on the eil76 instance are at https://cs.adelaide.edu.au/~optlog/research/ttp/gecco2018-eil76.tar.gz (2.5GB) due to file size constraints.
 
